@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Lucas Gaspar 🖐️
 
-Estudante de Ciências da computação🎓
+Estudante de Ciências da computação na UNESP🎓
  <br>Desenvolvedor de software na Precifica💹
   <br>Membro da Diretoria de Inovação na EJcomp - Empresa Junior de Computação🔛
  <br>Apaixonado pela Ciência de dados, Machine learning e IA🚀
@@ -27,7 +27,7 @@ Estudante de Ciências da computação🎓
  #### CONTATO
 </div>
 
-
+<a href = "mailto:lucasgstumpf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/lucasgstumpf
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
