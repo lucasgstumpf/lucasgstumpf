@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Lucas Gaspar 🖐️
 
 Estudante de Ciências da computação na UNESP🎓
- <br>Desenvolvedor de software na Precifica💹
+ <br>Estagiario em IA na V-LAB🚀
   <br>Membro da Diretoria de Inovação na EJcomp - Empresa Junior de Computação🔛
  <br>Apaixonado pela Ciência de dados, Machine learning e IA🚀
 ##
