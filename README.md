@@ -3,7 +3,7 @@
 Estudante de Ciências da computação na UNESP🎓
  <br>Estagiario em IA na V-LAB🚀
   <br>Membro da Diretoria de Inovação na EJcomp - Empresa Junior de Computação🔛
- <br>Apaixonado pela Ciência de dados, Machine learning e IA🚀
+ <br>Estudante de Data, Machine learning e Visão Computacional🚀
 ##
 <div align="center">
   <a href="https://github.com/lucasgstumpf">
