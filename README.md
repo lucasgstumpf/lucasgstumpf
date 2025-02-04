@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Lucas Gaspar 🖐️
 
 Estudante de Ciências da computação na UNESP🎓
- <br>Estagiario em IA na V-LAB🚀
+ <br>Desenvolvedor de IA na VRental🚀
   <br>Membro da Diretoria de Inovação na EJcomp - Empresa Junior de Computação🔛
  <br>Estudante de Data, Machine learning e Visão Computacional🚀
 ##
